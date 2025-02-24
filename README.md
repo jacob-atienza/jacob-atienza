@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Full-Stack projects**
 
-- 👨‍💻 All of my projects are available at [https://jacob-atienza.github.io/](https://jacobatienza.me)
+- 👨‍💻 All of my projects are available at [https://jacobatienza.me/](https://jacobatienza.me)
 
 - 💬 Ask me about **React**
 
