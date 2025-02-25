@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacob Atienza</h1>
 <h3 align="center">A Software Engineering student interested in Full-Stack development</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Network Application Development, Systems Programming and Cyber Security**
 
 - 👯 I’m looking to collaborate on **Full-Stack projects**
 
