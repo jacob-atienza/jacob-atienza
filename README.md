@@ -22,5 +22,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacob-atienza&show_icons=true&locale=en&layout=compact" alt="jacob-atienza" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacob-atienza&show_icons=true&locale=en" alt="jacob-atienza" /></p>
-
