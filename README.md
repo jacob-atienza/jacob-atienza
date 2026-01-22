@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacob Atienza</h1>
-<h3 align="center">A Software Engineering student interested in Full-Stack development</h3>
-
-- 🌱 I’m currently working at Conestoga SMART Centre, focusing on Full-Stack, ML, and VR projects**
-
-- 👯 I’m looking to collaborate on **Real-world projects**
+<h3 align="center">A Software Engineering student interested in Mobile Development</h3>
 
 - 👨‍💻 All of my projects are available at [https://jacobatienza.me/](https://jacobatienza.me)
-
-- 💬 Ask me about **React**
 
 - 📫 How to reach me **jacobatienza14@gmail.com**
 
